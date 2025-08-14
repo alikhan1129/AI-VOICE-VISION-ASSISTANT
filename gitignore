@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Environment variables
+.env
+
+# VSCode
+.vscode/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Mac / Windows system files
+.DS_Store
+Thumbs.db
+
+# Model files & large data
+*.pt
+*.h5
+*.onnx
+*.weights
+
+# Images / screenshots
+*.png
+*.jpg
+*.jpeg
+
+# Logs
+*.log
+
+# PyInstaller
+build/
+dist/
+*.spec

@@ -1,0 +1,11 @@
+opencv-python
+pytesseract
+pyttsx3
+speechrecognition
+google-generativeai
+transformers
+torch
+ultralytics
+python-dotenv
+sounddevice
+pyautogui
